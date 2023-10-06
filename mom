@@ -15,3 +15,4 @@ git reset --hard HEAD~3 used to delete the latest 3 commits along with the chang
 git resert --soft HEAD~1 used to delete only commits but not actions/changes
 git resert --soft HEAD~3 used to delete only latest commits b
 king is back
+mouli is lover of lahari and prabhas
