@@ -1,0 +1,18 @@
+ -m "message" filename to commit a file
+git commit -m "message" . used to commit all files which are present in staging area
+git log used to see the history of the git
+git log --oneline used to see only commit ID's and messages
+git log -1 used to see the latest commit
+git log -3 used to see latest 3 commits
+git log --follow --all filename used to see the no of commits for a single file
+git show commit_id --name-only used to see all the commit details along with the file name
+git show commit_id --stat see the histroy of a file (modifications, data add and deletion)
+git commit --amend -m "message" used to change the commit message for a latest commit
+git commit --amend --author "username <mail>" used to change the author of latest commit
+git commit --amend --no-edit used to commit the changes with previous commit
+git reset --hard HEAD~1 used to delete the latest commit along with the changes
+git reset --hard HEAD~3 used to delete the latest 3 commits along with the changes
+git resert --soft HEAD~1 used to delete only commits but not actions/changes
+git resert --soft HEAD~3 used to delete only latest commits b
+king is back
+mouli is lover of lahari and prabhas
